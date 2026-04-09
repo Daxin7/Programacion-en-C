@@ -1,0 +1,13 @@
+# Archivos temporales de compilación
+*.o
+*.obj
+
+# Ejecutables de Windows
+*.exe
+
+# Carpeta de salida de las extensiones de VS Code
+build/
+.vscode/
+
+# Archivos de depuración y logs
+*.log
